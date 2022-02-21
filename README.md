@@ -1,4 +1,4 @@
-# Recat app that makes a rquest and play youtube videos
+# React app that makes a rquest and play youtube videos
 
 This project was made with an Api from Google Developers, this one returns an array of videos related with a topic (query).
 It basically takes the array and make a component for each one, then put every VideoItem into a VideoList, and this one into App component.
